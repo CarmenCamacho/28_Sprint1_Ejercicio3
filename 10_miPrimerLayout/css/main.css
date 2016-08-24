@@ -1,0 +1,30 @@
+.cente-block{
+	display:block;
+	margin: auto;
+}
+
+ul{
+	border-top:1px black solid;
+	border-bottom:1px black solid;
+	margin: 2% 0;
+	text-align: center;
+	padding: 2%;
+}
+
+li{
+	display: inline-block;
+	text-align: center;
+	padding:2%;
+}
+
+.border-divide{
+	border-right: 1px solid black;
+}
+
+hr{
+	width: 100px;
+	height: 5px;
+	background-color: black;
+	display: block;
+	margin: auto;
+}
